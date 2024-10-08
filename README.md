@@ -1,18 +1,15 @@
 # Edubot Project Arduino Handout (LaTeX Repository)
 Authors:
 Caio de Lima Saigg
-Ian Porto e Mello
+et al
 
-Advisor:
-Prof. Dr. Edson Mintsu Hung
-
-Publication:
-December 2023
+Finalized on:
+March 2020
 
 <a name="Description"></a>
 ## Description
 
-his document was prepared by volunteer students from various undergraduate programs at the University of Brasília,
+This document was prepared by volunteer students from various undergraduate programs at the University of Brasília,
 intended for distribution to students in the EduBot project. All contributors were participants in the project.
 The booklet includes both theoretical and practical material on basic programming in the Sparki Robot from ArcBotics
 (https://arcbotics.com/products/sparki/) and fundamental concepts in robotics.
